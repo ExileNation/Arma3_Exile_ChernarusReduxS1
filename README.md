@@ -13,6 +13,6 @@ Make sure you check the Repository and Pull any new commits to the @Github regul
 ExileNation allows only certain people to Merge or Push(Cloning/Downloading) all or any files.
 If you have given permission to Merge, please ensure you:
 
-•  Have tested the files you want to Merge on a/the test server.
-•  Upload a "Changelog" explaining what you have done and why.
-•  Notify others about your Merge.
+ •  Have tested the files you want to Merge on a/the test server.
+ •  Upload a "Changelog" explaining what you have done and why.
+ •  Notify others about your Merge.
